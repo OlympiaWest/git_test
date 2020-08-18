@@ -1,0 +1,1 @@
+This is OlympiaWest's first git project!
